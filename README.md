@@ -40,7 +40,6 @@ mixin class HomeState {
   TodoListFilter todoListFilter(WidgetRef ref) =>  ref.watch(todoListFilterProvider);
 }
 ```
-<img src="https://velog.velcdn.com/images/ximya_hf/post/417f4b29-3363-4bfc-95a2-0ca8d99beea7/image.png">
 
 <br/>
 <br/>
@@ -110,7 +109,6 @@ mixin class HomeEvent {
   }  
 }
 ```
-<img src="https://velog.velcdn.com/images/ximya_hf/post/d4eb3d15-e997-45b0-a364-c3dee6354e57/image.png">
 
 
 There are five significant advantages to this approach
