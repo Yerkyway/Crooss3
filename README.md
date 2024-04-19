@@ -1,15 +1,11 @@
 <h1 align="center">Todo App</h1>
 
+![image](https://github.com/Yerkyway/Crooss3/assets/143787291/ec3da44d-320f-466f-8e87-5a74da5a87b2)
 
 
 <br/>
 <br/>
 
-
-
-<p align="center"><img src="![image](https://github.com/Yerkyway/Crooss3/assets/143787291/c8f803d1-3a3a-4766-b85f-2ecd9776263a)
-"/></p>
-<p align="center">
 
 
 
