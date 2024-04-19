@@ -1,9 +1,4 @@
 <h1 align="center">Clean Riverpod Management Todo App</h1>
-<p align="center"><img src="https://velog.velcdn.com/images/ximya_hf/post/0c586f6b-e197-4311-8141-923af6b5dedd/image.png"/></p>
-<p align="center">
-Using `Mixin Classes` to structure the usage `scope` of `Riverpod providers` allows for an improved and easily maintainable structure for global provider management, addressing drawbacks associated with globally managed providers and facilitating `maintenance` and `testing`.
-
-
 
 
 
