@@ -7,9 +7,9 @@
 
 
 
-<p align="center"><img src="https://velog.velcdn.com/images/ximya_hf/post/0e15fb75-ed13-4b1e-a3e7-787ee14ece05/image.png"/></p>
+<p align="center"><img src="![image](https://github.com/Yerkyway/Crooss3/assets/143787291/c8f803d1-3a3a-4766-b85f-2ecd9776263a)
+"/></p>
 <p align="center">
-This project is developed based on the ‘Todo app’ from the <a href="https://riverpod.dev/docs/introduction/getting_started">Riverpod official documentation <a/>
 
 
 
