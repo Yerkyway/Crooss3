@@ -1,4 +1,4 @@
-<h1 align="center">Clean Riverpod Management Todo App</h1>
+<h1 align="center">Todo App</h1>
 
 
 
